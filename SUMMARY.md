@@ -8,5 +8,5 @@
    * [堆栈](dui_zhan.md)
    * [队列](dui_lie.md)
    * 多项式相加运算
-* 树
+* [树](shu.md)
 
