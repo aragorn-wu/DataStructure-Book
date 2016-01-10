@@ -18,6 +18,7 @@ ADT:
 <li>先序</li>
 <li>中序</li>
 <li>后序</li>
+<li>后序</li>
 </ol>
 <li>创建</li>
 </ol>
