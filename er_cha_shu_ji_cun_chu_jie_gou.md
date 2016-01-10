@@ -15,7 +15,7 @@ ADT:
 <li>判断是否为空</li>
 <li>遍历</li>
 <ol>
-
+<li></li>
 </ol>
 <li>创建</li>
 </ol>
