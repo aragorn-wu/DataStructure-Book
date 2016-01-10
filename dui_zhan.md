@@ -26,4 +26,6 @@ ADT描述：
 <li>创建</li>
 <li>push</li>
 <li>pop</li>
+<li>isFull<li>
+<li>isEmpty</li>
 </ol>
