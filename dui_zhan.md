@@ -23,5 +23,7 @@
 ADT描述：
 
 <ol>
-
+<li>创建</li>
+<li>push</li>
+<li>pop</li>
 </ol>
