@@ -1,6 +1,7 @@
 # 平衡二叉树调整
-
-RR旋转
-LL旋转
-LR旋转
-RL旋转
+<ol>
+<li>RR旋转</li>
+<li>LL旋转</li>
+<li>RR旋转</li>
+<li>RL旋转</li>
+</ol>
