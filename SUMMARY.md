@@ -16,4 +16,5 @@
    * [二叉搜索树](er_cha_sou_suo_shu.md)
    * [平衡二叉树](ping_heng_er_cha_shu.md)
    * [平衡二叉树调整](ping_heng_er_cha_shu_diao_zheng.md)
+   * 堆
 
