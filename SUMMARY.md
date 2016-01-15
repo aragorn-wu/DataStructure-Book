@@ -13,6 +13,5 @@
    * [二叉树及存储结构](er_cha_shu_ji_cun_chu_jie_gou.md)
 * [二叉树的遍历](er_cha_shu_de_bian_li.md)
    * [中序遍历](zhong_xu_bian_li.md)
-   * [后序遍历](hou_xu_bian_li.md)
    * 层次遍历
 
