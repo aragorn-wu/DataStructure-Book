@@ -13,6 +13,7 @@
    * [二叉树及存储结构](er_cha_shu_ji_cun_chu_jie_gou.md)
    * [二叉树的遍历](er_cha_shu_de_bian_li.md)
 * [树（下）](shu_ff08_xia_ff09.md)
+   * [平衡二叉树](ping_heng_er_cha_shu.md)
    * 平衡二叉树
    * [二叉搜索树](er_cha_sou_suo_shu.md)
        * [平衡二叉树](ping_heng_er_cha_shu.md)
