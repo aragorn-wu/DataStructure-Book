@@ -17,4 +17,5 @@
    * [平衡二叉树](ping_heng_er_cha_shu.md)
    * [平衡二叉树调整](ping_heng_er_cha_shu_diao_zheng.md)
    * [堆](dui.md)
+   * 哈夫曼树与哈夫曼编码
 
