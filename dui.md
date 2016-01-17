@@ -12,4 +12,9 @@ ADT:
 <li>完全二叉树</li>
 <li>每个节点的元素值不小于其子节点的元素值</li>
 </ol>
+操作集：
+<ul>
+<li>create(int MaxSize)创建一个空的最大堆</li>
+
+</ul>
 
