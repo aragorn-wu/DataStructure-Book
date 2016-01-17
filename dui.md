@@ -15,6 +15,7 @@ ADT:
 操作集：
 <ul>
 <li>MaxHeap create(int MaxSize)创建一个空的最大堆</li>
-<li></li>
+<li>Boolean isFull(MaxHeap H)判断最大堆是否已满</li>
+
 </ul>
 
