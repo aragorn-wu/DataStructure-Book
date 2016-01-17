@@ -14,7 +14,7 @@ ADT:
 </ol>
 操作集：
 <ul>
-<li>create(int MaxSize)创建一个空的最大堆</li>
-
+<li>MaxHeap create(int MaxSize)创建一个空的最大堆</li>
+<li></li>
 </ul>
 
