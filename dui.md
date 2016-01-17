@@ -16,6 +16,7 @@ ADT:
 <ul>
 <li>MaxHeap create(int MaxSize)创建一个空的最大堆</li>
 <li>Boolean isFull(MaxHeap H)判断最大堆是否已满</li>
-
+<li>Insert(MaxHeap H,ElementType item)将元素插入最大堆Ｈ</li>
+<li>Boolean IsEmpty(MaxHeap H)判断最大堆是否为空<li>
 </ul>
 
