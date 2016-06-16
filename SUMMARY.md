@@ -14,6 +14,7 @@
    * [二叉树的遍历](er_cha_shu_de_bian_li.md)
 * [树（下）](shu_ff08_xia_ff09.md)
    * [二叉搜索树](er_cha_sou_suo_shu.md)
+       * a
    * [平衡二叉树](ping_heng_er_cha_shu.md)
    * [平衡二叉树调整](ping_heng_er_cha_shu_diao_zheng.md)
    * [堆](dui.md)
