@@ -16,7 +16,7 @@
    * [二叉搜索树](er_cha_sou_suo_shu.md)
        * [平衡二叉树](ping_heng_er_cha_shu.md)
        * [平衡二叉树调整](ping_heng_er_cha_shu_diao_zheng.md)
-   * B-树
+   * [B-树](bshu.md)
    * [堆](dui.md)
    * [哈夫曼树与哈夫曼编码](ha_fu_man_shu_yu_ha_fu_man_bian_ma.md)
 * [图（上）](tu_ff08_shang_ff09.md)
