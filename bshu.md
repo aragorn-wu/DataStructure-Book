@@ -11,3 +11,6 @@
  <li>叶子结点的指针：P[1], P[2], …, P[M]；其中P[1]指向关键字小于K[1]的子树，P[M]指向关键字大于K[M-1]的子树，其它P[i]指向关键字属于(K[i-1], K[i])的子树；</li>
  <li>所有叶子结点位于同一层；</li>
  </ol>
+ 
+ ![B-树最低搜索性能](http://p.blog.csdn.net/images/p_blog_csdn_net/manesking/0.JPG)
+ 
