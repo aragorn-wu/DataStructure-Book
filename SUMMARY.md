@@ -14,8 +14,6 @@
     * [平衡二叉树](er-cha-shu/a.md)
   * [AVL树](avlshu.md)
 * [树（下）](shu_ff08_xia_ff09.md)
-  * [BTree](er_cha_sou_suo_shu.md)
-    * [平衡二叉树调整](ping_heng_er_cha_shu_diao_zheng.md)
   * [B-Tree](bshu.md)
   * [B+树](bplusshu.md)
   * [B\*树](basteriskshu.md)
