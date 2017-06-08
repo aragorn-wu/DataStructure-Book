@@ -7,6 +7,7 @@ class BinaryNode{
     Object element;//the data in the node
     BinaryNode left;
     BinaryNode right;
+    }
 ```
 
 
