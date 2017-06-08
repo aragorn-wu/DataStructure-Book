@@ -12,7 +12,6 @@
   * [树与树的表示](shu_yu_shu_de_biao_shi.md)
   * [二叉树](er-cha-shu.md)
     * [平衡二叉树](er-cha-shu/a.md)
-  * [AVL树](avlshu.md)
 * [树（下）](shu_ff08_xia_ff09.md)
   * [B-Tree](bshu.md)
   * [B+树](bplusshu.md)
