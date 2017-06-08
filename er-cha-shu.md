@@ -12,3 +12,5 @@ class BinaryNode{
 
 ![](http://p.blog.csdn.net/images/p_blog_csdn_net/manesking/1.JPG)
 
+
+
