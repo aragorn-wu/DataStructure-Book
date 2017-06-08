@@ -8,6 +8,8 @@ class BinaryNode{
     BinaryNode left;
     BinaryNode right;
     }
+
+![二叉搜索树](http://p.blog.csdn.net/images/p_blog_csdn_net/manesking/1.JPG)
 ```
 
 
