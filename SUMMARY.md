@@ -8,6 +8,7 @@
   * [堆栈](dui_zhan.md)
   * [队列](dui_lie.md)
   * 多项式相加运算
+  * [散列表](san-lie-biao.md)
 * [树（上）](shu.md)
   * [树与树的表示](shu_yu_shu_de_biao_shi.md)
   * [二叉树](er-cha-shu.md)
