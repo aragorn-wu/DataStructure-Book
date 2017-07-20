@@ -25,4 +25,5 @@
   * [什么是图](shi_yao_shi_tu.md)
   * [无向图和有向图](wu-xiang-tu-he-you-xiang-tu.md)
   * [无向完全图和有向完全图](wu-xiang-wan-quan-tu-he-you-xiang-wan-quan-tu.md)
+  * 顶点的度
 
