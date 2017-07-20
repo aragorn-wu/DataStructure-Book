@@ -23,7 +23,7 @@
   * [哈夫曼树与哈夫曼编码](ha_fu_man_shu_yu_ha_fu_man_bian_ma.md)
 * [图](tu_ff08_shang_ff09.md)
   * [图的定义](shi_yao_shi_tu.md)
-  * 概念和术语
+  * [概念和术语](gai-nian-he-zhu-yu.md)
     * [无向图和有向图](wu-xiang-tu-he-you-xiang-tu.md)
     * [无向完全图和有向完全图](wu-xiang-wan-quan-tu-he-you-xiang-wan-quan-tu.md)
     * [顶点的度](ding-dian-de-du.md)
