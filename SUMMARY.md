@@ -28,4 +28,5 @@
   * [顶点的度](ding-dian-de-du.md)
   * [路径，路径长度和回路](lu-jing-ff0c-lu-jing-chang-du-he-hui-lu.md)
   * [连通图\(无向图\)](lian-tong-56fe28-wu-xiang-56fe29.md)
+  * [强连通图\(有向图\)](qiang-lian-tong-56fe28-you-xiang-56fe29.md)
 
