@@ -32,5 +32,5 @@
     * [强连通图\(有向图\)](qiang-lian-tong-56fe28-you-xiang-56fe29.md)
     * [网](wang.md)
   * [图的创建和遍历](tu-de-chuang-jian-he-bian-li.md)
-    * 图的两种存储结构
+    * [图的两种存储结构](tu-de-chuang-jian-he-bian-li/tu-de-liang-zhong-cun-chu-jie-gou.md)
 
