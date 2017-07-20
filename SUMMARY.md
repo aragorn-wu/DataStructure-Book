@@ -34,4 +34,5 @@
   * [图的创建和遍历](tu-de-chuang-jian-he-bian-li.md)
     * [邻接矩阵](tu-de-chuang-jian-he-bian-li/tu-de-liang-zhong-cun-chu-jie-gou.md)
     * [邻接表](tu-de-chuang-jian-he-bian-li/lin-jie-biao.md)
+    * [十字链表](tu-de-chuang-jian-he-bian-li/shi-zi-lian-biao.md)
 
