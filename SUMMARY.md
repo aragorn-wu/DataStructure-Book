@@ -26,4 +26,5 @@
   * [无向图和有向图](wu-xiang-tu-he-you-xiang-tu.md)
   * [无向完全图和有向完全图](wu-xiang-wan-quan-tu-he-you-xiang-wan-quan-tu.md)
   * [顶点的度](ding-dian-de-du.md)
+  * [路径，路径长度和回路](lu-jing-ff0c-lu-jing-chang-du-he-hui-lu.md)
 
