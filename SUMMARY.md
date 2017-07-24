@@ -39,5 +39,5 @@
   * [拓扑排序](tuo-pu-pai-xu.md)
   * 图遍历
     * [广度优先搜索](guang-du-you-xian-sou-suo.md)
-    * 深度优先搜索
+    * [深度优先搜索](shen-du-you-xian-sou-suo.md)
 
