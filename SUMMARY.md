@@ -21,7 +21,7 @@
   * [B\*树](basteriskshu.md)
   * [堆](dui.md)
   * [哈夫曼树与哈夫曼编码](ha_fu_man_shu_yu_ha_fu_man_bian_ma.md)
-* [图](tu_ff08_shang_ff09.md)
+* [图结构](tu_ff08_shang_ff09.md)
   * [图的定义](shi_yao_shi_tu.md)
   * [概念和术语](gai-nian-he-zhu-yu.md)
     * [无向图和有向图](wu-xiang-tu-he-you-xiang-tu.md)
@@ -35,4 +35,6 @@
     * [邻接矩阵](tu-de-chuang-jian-he-bian-li/tu-de-liang-zhong-cun-chu-jie-gou.md)
     * [邻接表](tu-de-chuang-jian-he-bian-li/lin-jie-biao.md)
     * [十字链表](tu-de-chuang-jian-he-bian-li/shi-zi-lian-biao.md)
+* 图算法
+  * [拓扑排序](tuo-pu-pai-xu.md)
 
