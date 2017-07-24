@@ -37,6 +37,7 @@
     * [十字链表](tu-de-chuang-jian-he-bian-li/shi-zi-lian-biao.md)
 * 图算法
   * [拓扑排序](tuo-pu-pai-xu.md)
+  * 图遍历
   * [广度优先搜索](guang-du-you-xian-sou-suo.md)
   * 深度优先搜索
 
