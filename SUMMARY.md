@@ -40,5 +40,5 @@
   * [图遍历](tu-bian-li.md)
     * [广度优先搜索](guang-du-you-xian-sou-suo.md)
     * [深度优先搜索](shen-du-you-xian-sou-suo.md)
-    * Huffman Code
+    * [Huffman Code](huffman-code.md)
 
