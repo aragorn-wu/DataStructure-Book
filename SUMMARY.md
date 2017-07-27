@@ -41,4 +41,5 @@
     * [广度优先搜索](guang-du-you-xian-sou-suo.md)
     * [深度优先搜索](shen-du-you-xian-sou-suo.md)
     * [Huffman Code](huffman-code.md)
+  * [最小生成树](zui-xiao-sheng-cheng-shu.md)
 
