@@ -31,7 +31,7 @@
     * [连通图\(无向图\)](lian-tong-56fe28-wu-xiang-56fe29.md)
     * [强连通图\(有向图\)](qiang-lian-tong-56fe28-you-xiang-56fe29.md)
     * [网](wang.md)
-  * [图的创建和遍历](tu-de-chuang-jian-he-bian-li.md)
+  * [图的表示](tu-de-chuang-jian-he-bian-li.md)
     * [邻接矩阵](tu-de-chuang-jian-he-bian-li/tu-de-liang-zhong-cun-chu-jie-gou.md)
     * [邻接表](tu-de-chuang-jian-he-bian-li/lin-jie-biao.md)
     * [十字链表](tu-de-chuang-jian-he-bian-li/shi-zi-lian-biao.md)
